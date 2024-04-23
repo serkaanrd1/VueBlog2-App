@@ -42,7 +42,12 @@ npm run serve
 ```
 npm run build
 ```
-
+![](./blogb1.png)
+![](./blogb2.png)
+![](./blogb3.png)
+![](./blog1.png)
+![](./blog2.png)
+![](./blog3.png)
 
 
 
